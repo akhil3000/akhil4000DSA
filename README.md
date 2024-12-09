@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/akhil3000/akhil4000DSA/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/akhil3000/akhil4000DSA/tree/master/0037-sudoku-solver) |
 ## Hash Table
 |  |
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/akhil3000/akhil4000DSA/tree/master/0037-sudoku-solver) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/akhil3000/akhil4000DSA/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
